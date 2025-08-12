@@ -1,0 +1,28 @@
+{
+  "plays": [
+    {
+      "name": "Mensaje",
+      "playid": "2",
+      "imageRetinaUrl": "https://small.fileditchstuff.me/s13/JPzfleDuQMsXoXkJIikv.png",
+      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+    },
+    {
+       "name": "Secret Cat Forest",
+      "playid": "3",
+      "imageRetinaUrl": "https://small.fileditchstuff.me/s13/HARgzNTgjGXPkcxwumz.png",
+      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+    },
+    {
+       "name": "Cifrar programa",
+      "playid": "4",
+      "imageRetinaUrl": "https://small.fileditchstuff.me/s13/DpXHvTiWBpOyWFpgWrZ.png",
+      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+    },
+    {
+       "name": "El Omero Dou Servesa",
+      "playid": "5",
+      "imageRetinaUrl": "https://small.fileditchstuff.me/s13/XmZarjFeefNUmKNhlpa.jpg",
+      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+    }
+  ]
+}
