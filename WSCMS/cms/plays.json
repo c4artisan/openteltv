@@ -1,16 +1,16 @@
 {
   "plays": [
     {
-      "name": "Mensaje",
+      "name": "My Talking Tom 2",
       "playid": "2",
-      "imageRetinaUrl": "https://files.catbox.moe/nzfj5i.jpg",
-      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+      "imageRetinaUrl": "https://files.catbox.moe/af3hpb.png",
+      "androidPackageSmartphone": "com.outfit7.mytalkingtom2"
     },
     {
-       "name": "Secret Cat Forest",
+       "name": "Pou",
       "playid": "3",
-      "imageRetinaUrl": "https://files.catbox.moe/nzfj5i.jpg",
-      "androidPackageSmartphone": "com.halfbrick.fruitninja"
+      "imageRetinaUrl": "https://files.catbox.moe/jv7j7r.png",
+      "androidPackageSmartphone": "me.pou.app"
     },
     {
        "name": "Cifrar programa",
